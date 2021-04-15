@@ -1,0 +1,39 @@
+
+  body {
+    background: #037beb;
+    display: flex;
+   
+    min-height: 100vh;
+  }
+ 
+
+
+.fb-like {
+position: relative;
+top: 12em;
+padding: 12px;
+background:#ffffff
+
+
+
+}
+
+.box{
+    color: #ffffff;
+    
+
+
+}
+#carita{
+    position: relative;
+    font-size: 5em;
+    
+    left: 60px;
+    
+}
+#texto{
+    font-size: 2rem;
+    position: relative;
+
+}
+
